@@ -26,7 +26,7 @@ pacote=$(dpkg --get-selections | grep "$nome" )
  
 if [ -n "$pacote" ] ; then
 
-    printf "O pacote $nome está instalado corretamente""
+    printf "O pacote $nome está instalado corretamente"
 
 else 
 
