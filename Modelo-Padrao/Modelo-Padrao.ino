@@ -10,7 +10,7 @@
 #define KEY_LEFT_ARROW  0x50
 #define KEY_DOWN_ARROW  0x51
 #define KEY_UP_ARROW    0x52
-#define KEY_ESC         0x29T
+#define KEY_ESC         0x29
 #define KEY_F1          0x3A
 #define KEY_F2          0x3B
 #define KEY_F3          0x3C
